@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3b3a0dfdba377002f4c87a6d27e47737\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\73c7ae86f649333346242b1acfbe92c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3750e34752ec40dd997cb23be7b42e83\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2f767fc1ba63e4012f59cb12fc7f7dd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\25efb378ca671ece2212fbdc46422f59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bb7becaa111f930b766ee3516ce9cd29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\38d8cf76ce9dbc8afa81b2a8e28731ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d863ee139d2a309e1f39f1fe05412ef3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fd8ae781050451d309b4d4b34b29c8ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\30ecb3e2e9ec008d1d8c268b244df8c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4676f13af552667fade61b9770780b4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a5cffd12de58c7e0cba621e1756352ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4d6b61a04eef572eb24c79fb595d0f36\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\33da5f08b7026b55d6c683d7838ca1e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e5a1d113d050f05a126029c4a89892f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\844d14bcffc7858fadafaee6ec09273d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32e796f9af1c83e418f14774e7a3b5e2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:8:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3750e34752ec40dd997cb23be7b42e83\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3750e34752ec40dd997cb23be7b42e83\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.hmkcode.MainActivity
+ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3b3a0dfdba377002f4c87a6d27e47737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3b3a0dfdba377002f4c87a6d27e47737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\73c7ae86f649333346242b1acfbe92c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\73c7ae86f649333346242b1acfbe92c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3750e34752ec40dd997cb23be7b42e83\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3750e34752ec40dd997cb23be7b42e83\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2f767fc1ba63e4012f59cb12fc7f7dd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2f767fc1ba63e4012f59cb12fc7f7dd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\25efb378ca671ece2212fbdc46422f59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\25efb378ca671ece2212fbdc46422f59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bb7becaa111f930b766ee3516ce9cd29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bb7becaa111f930b766ee3516ce9cd29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\38d8cf76ce9dbc8afa81b2a8e28731ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\38d8cf76ce9dbc8afa81b2a8e28731ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d863ee139d2a309e1f39f1fe05412ef3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d863ee139d2a309e1f39f1fe05412ef3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fd8ae781050451d309b4d4b34b29c8ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fd8ae781050451d309b4d4b34b29c8ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\30ecb3e2e9ec008d1d8c268b244df8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\30ecb3e2e9ec008d1d8c268b244df8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4676f13af552667fade61b9770780b4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4676f13af552667fade61b9770780b4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a5cffd12de58c7e0cba621e1756352ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a5cffd12de58c7e0cba621e1756352ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4d6b61a04eef572eb24c79fb595d0f36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4d6b61a04eef572eb24c79fb595d0f36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\33da5f08b7026b55d6c683d7838ca1e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\33da5f08b7026b55d6c683d7838ca1e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e5a1d113d050f05a126029c4a89892f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e5a1d113d050f05a126029c4a89892f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\844d14bcffc7858fadafaee6ec09273d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\844d14bcffc7858fadafaee6ec09273d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32e796f9af1c83e418f14774e7a3b5e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dasztemb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32e796f9af1c83e418f14774e7a3b5e2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dasztemb\Desktop\dataSender\Android\android-post-json\app\src\main\AndroidManifest.xml
