@@ -82,11 +82,14 @@ public class MainActivity extends AppCompatActivity {
         conn.setRequestMethod("GET");
         conn.setRequestProperty("Content-Type", "application/json; charset=utf-8");
 
+        // jak robisz geta to punkt 2 i 3 zakomentuj, a jak postem coś gdzieś wrzucasz to możesz odkomentować
+        // i w linijce 155 i niżej możesz dać parametry
+
         // 2. build JSON object
-        JSONObject jsonObject = buidJsonObject();
+        //JSONObject jsonObject = buidJsonObject();
 
         // 3. add JSON content to POST request body
-        setPostRequestContent(conn, jsonObject);
+        //setPostRequestContent(conn, jsonObject);
 
         // 4. make POST request to the given URL
         conn.connect();
@@ -139,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
         // perform HTTP POST request
         if(checkNetworkConnection())
             //w tej linijce zmieniasz urla
-            new HTTPAsyncTask().execute("http://ptsv2.com/t/rrv9j-1541335087/post");
+            new HTTPAsyncTask().execute("https://jsonplaceholder.typicode.com/posts/47");
         else
             Toast.makeText(this, "Not Connected!", Toast.LENGTH_SHORT).show();
 
@@ -149,9 +152,9 @@ public class MainActivity extends AppCompatActivity {
 
         //tu możesz dodać parametry które idą do body zapytania
         JSONObject jsonObject = new JSONObject();
-        //jsonObject.accumulate("name", etName.getText().toString());
-        //jsonObject.accumulate("country",  etCountry.getText().toString());
-        //jsonObject.accumulate("twitter",  etTwitter.getText().toString());
+        jsonObject.accumulate("name", etName.getText().toString());
+        jsonObject.accumulate("country",  etCountry.getText().toString());
+        jsonObject.accumulate("twitter",  etTwitter.getText().toString());
 
         return jsonObject;
     }
